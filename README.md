@@ -32,3 +32,9 @@ VI. [Part 2 - Internet Search](https://github.com)
 VII. [Part 3 - Dot Com Bubble](https://github.com)
 
 VIII. [Part 4 - People](https://github.com)
+
+## Sources
+- [Source 1]
+- [Source 2]
+- [Source 3]
+- [Source 4]
